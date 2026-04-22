@@ -1,4 +1,4 @@
-# Comparative Analysis of Neural Network Architectures for Image Classification
+# ANN-Based Multiclass Classification
 
 ## Problem Statement
 
@@ -48,6 +48,9 @@ This helps in understanding:
 - Feature distribution
 - Class clustering
 - Potential linear separability
+
+### Pairplot
+![Pairplot](images/pairplot.png)
 
 ## Data Preprocessing
 
