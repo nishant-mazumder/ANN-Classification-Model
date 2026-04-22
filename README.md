@@ -59,7 +59,7 @@ This helps in understanding:
 - Standardized features using StandardScaler
 - Used stratified train-test split (80-20) to maintain class balance
 
-## 🤖 Models Used
+## Models Used
 
 ### 1. Perceptron (Baseline Model)
 
@@ -101,7 +101,7 @@ Dense(3, activation='softmax')
 
 ---
 
-## 📈 Results
+## Results
 
 | Model       | Accuracy  |
 |------------|----------|
@@ -112,7 +112,7 @@ The ANN significantly outperforms the Perceptron due to its ability to model non
 
 ---
 
-## 📉 Training Visualization
+## Training Visualization
 
 Training and validation accuracy were plotted to monitor performance:
 
@@ -129,7 +129,7 @@ This helps in:
 
 ---
 
-## 🧠 Key Learnings
+## Key Learnings
 
 - Linear models like Perceptron have limited capacity for complex boundaries  
 - Neural networks can significantly improve performance even on small datasets  
@@ -139,7 +139,7 @@ This helps in:
 
 ---
 
-## 📌 Future Improvements
+## Future Improvements
 
 - Add Dropout layers to study overfitting behavior  
 - Try deeper architectures or different activation functions  
